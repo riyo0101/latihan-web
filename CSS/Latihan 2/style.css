@@ -1,0 +1,5 @@
+body {
+    /* font-style, font-variant, font-weight/ font-size, line-height, font-family */
+    font: bold normal 16px/18px poppins, arial, sans-serif;
+    text-align: center;
+}
